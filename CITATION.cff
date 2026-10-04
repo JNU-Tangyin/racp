@@ -5,7 +5,7 @@ authors:
   - name: "CPRL authors"
 version: "0.1.0"
 date-released: "2026-08-04"
-repository-code: "https://github.com/LibingChen-Lydia/cprl"
+repository-code: "https://github.com/JNU-Tangyin/racp"
 license: "MIT"
 keywords:
   - conformal prediction

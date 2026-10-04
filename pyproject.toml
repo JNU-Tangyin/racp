@@ -55,9 +55,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/LibingChen-Lydia/cprl"
-Repository = "https://github.com/LibingChen-Lydia/cprl"
-Issues = "https://github.com/LibingChen-Lydia/cprl/issues"
+Homepage = "https://github.com/JNU-Tangyin/racp"
+Repository = "https://github.com/JNU-Tangyin/racp"
+Issues = "https://github.com/JNU-Tangyin/racp/issues"
 
 [tool.setuptools]
 packages = [
